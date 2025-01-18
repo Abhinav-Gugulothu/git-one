@@ -8,3 +8,5 @@ log - master - new log() - abhinav;
 
 
   log-line-master
+
+console.log("master megrg");
